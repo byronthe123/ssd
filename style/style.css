@@ -3522,7 +3522,7 @@ body.lock-position
 .ssd {
     /* color: #f0f0f0; */
     font-size: 40px;
-    font-family: Futura;
+    font-family: 'Cinzel', serif;
     background-color: #666666;
     text-shadow: 1px 4px 4px #555;
     text-align: center;
@@ -3530,6 +3530,11 @@ body.lock-position
     -moz-background-clip: text;
     -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: rgb(150, 149, 149);
+  /* font-family: 'Great Vibes', regular; */
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
 }
 
 .title-text {
